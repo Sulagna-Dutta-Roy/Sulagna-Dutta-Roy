@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sulagna-Dutta-Roy
-- 👀 I’m interested in Frontend Devlopement
+- 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning electronics and communications
 - 💞️ I’m looking to collaborate on User Interface of any projects. 
 - 📫 How to reach me : Send Hi to my Inbox
