@@ -1,10 +1,14 @@
-- 👋 Hi, I’m Sulagna-Dutta-Roy
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning B.tech in Electronics and Communications
-- 💞️ I’m looking to collaborate on User Interface of any projects. 
-- 📫 How to reach me : Send Hi to my Inbox
-
+<ul>
+  <li>👋 Hi, I’m Sulagna-Dutta-Roy</li>
+  <li>👀 I’m interested in Frontend Development</li>
+  <li>🌱 I’m currently learning B.tech in Electronics and Communications</li>
+  <li>📫 How to reach me : Send Hi to my Inbox</li>
+</ul>
 <!---
+<h1></h1>
 Sulagna-Dutta-Roy/Sulagna-Dutta-Roy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<h1>Open Source Enthusiast</h1>
+<h1>Dm to Collaborate,Feel free</h1>
+
