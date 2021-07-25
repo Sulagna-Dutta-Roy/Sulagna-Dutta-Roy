@@ -10,5 +10,6 @@ Sulagna-Dutta-Roy/Sulagna-Dutta-Roy is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 <h1>Open Source Enthusiast</h1>
-<h1>Dm to Collaborate,Feel free</h1>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sulagna-dutta-roy)](https://github.com/sulagna-dutta-roy/github-readme-stats)
 
