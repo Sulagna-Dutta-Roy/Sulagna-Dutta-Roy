@@ -2,7 +2,7 @@
   <h1>👋 Hi, I’m Sulagna Dutta Roy</h1>
   <h2>👀 I’m interested in Frontend Development</h2>
   <h3>🌱 I’m currently learning B.tech in Electronics and Communications</h3>
-  <h4>📫 How to reach me : Send Hi to my Inbox</h4>
+  <h3>📫 How to reach me : Send Hi to my Inbox</h3>
 <!---
 <h1></h1>
 Sulagna-Dutta-Roy/Sulagna-Dutta-Roy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
