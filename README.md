@@ -14,3 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulagna-dutta-roy)](https://github.com/sulagna-dutta-roy/github-readme-stats)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sulagna-Dutta-Roy&theme=dark)](https://git.io/streak-stats)
+
