@@ -1,8 +1,8 @@
 
   <h1>👋 Hi, I’m Sulagna Dutta Roy</h1>
   <h2>👀 I’m interested in Frontend Development</h2>
-  <h3>✨ Currently learning backend.</h3>
-  <h3>🌱 I’m currently learning B.tech in Electronics and Communications</h3>
+  <h3>✨ Working on backend.</h3>
+  <h3>🌱 I’m currently pursuing B.tech in Electronics and Communications</h3>
   <h3>📫 How to reach me : Send Hi to my Inbox</h3>
 <!---
 <h1></h1>
