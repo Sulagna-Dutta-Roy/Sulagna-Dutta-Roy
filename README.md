@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sulagna-dutta-roy&show_icons=true&theme=radical)
 
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=Sulagna-Dutta-Roy&layout=compact&langs_count=8&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000)
+
 
 
 
