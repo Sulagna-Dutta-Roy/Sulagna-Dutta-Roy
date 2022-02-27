@@ -1,5 +1,6 @@
 
   <h1>👋 Hi, I’m Sulagna Dutta Roy</h1>
+  <imc src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966">
   <h2>👀 I’m interested in Frontend Development</h2>
   <h3>✨ Working on backend.</h3>
   <h3>🌱 I’m currently pursuing B.tech in Electronics and Communications</h3>
@@ -25,4 +26,3 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sulagna-Dutta-Roy&theme=dark)](https://git.io/streak-stats)
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sulagna-Dutta-Roy&theme=react-dark)](https://github.com/sulagna-dutta-roy/github-readme-activity-graph)
