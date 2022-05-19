@@ -1,6 +1,5 @@
 
 <h1>👋 Hi, I’m Sulagna Dutta Roy</h1>
-<img align='right' src='https://raw.githubusercontent.com/handeebrar/handeebrar/master/img/study.gif' width='400' height='300'>
 <h2>👀 I’m interested in Frontend Development</h2>
 <h3>✨ Working on backend.</h3>
 <h3>🌱 I’m currently pursuing B.tech in Electronics and Communications</h3>
