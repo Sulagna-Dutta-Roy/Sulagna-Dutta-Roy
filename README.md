@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3>Achievements</h3>
 <h4>Participated in Google Devfest India and got selected winner in Google Cloud Track</h4>
-<h4>Currently Participating in @Girlscript Summer Of Code 2022</h4>
+<h4>Top performer in @Girlscript Summer Of Code 2022</h4>
 <h4>Completed Hacktoberfest'21 Challenge with valuable PRs</h4>
 <h4>Got selected as Top Participant in Monday App Development Challenge Hackathon<h4>
 
