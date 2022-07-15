@@ -3,6 +3,7 @@
 <h3>✨ Working on backend.</h3>
 <h3>🌱 I’m currently pursuing B.tech in Electronics and Communications</h3>
 <h3>📫 How to reach me : Send Hi to my Inbox</h3>
+![](https://komarev.com/ghpvc/?username=Sulagna-Dutta-Roy)
 <!---
 <h1></h1>
 Sulagna-Dutta-Roy/Sulagna-Dutta-Roy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
