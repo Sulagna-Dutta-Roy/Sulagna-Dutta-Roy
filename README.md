@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **React,Python,Open Source**
 
-- 📫 How to reach me **sulagnadutta65@gmail.com**
-
 - ⚡ Fun fact **I think I am a good learner and hard worker**
 
 <h3 align="left">Connect with me:</h3>
