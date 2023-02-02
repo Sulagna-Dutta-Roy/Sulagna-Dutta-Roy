@@ -3,7 +3,7 @@
 <img src = "https://user-images.githubusercontent.com/72568715/183976741-ca3e230f-b74a-4ab0-be2a-f9cfe49439c6.gif" align="right" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sulagna-dutta-roy&label=Profile%20views&color=0e75b6&style=flat" alt="sulagna-dutta-roy" /> </p>
 
-- 🔭 I’m currently working on **Frontend Projects**
+- 🔭 I’m currently working on **AirAsia-Priceline** projects
 
 - 🌱 I’m currently learning **Backend development, Redux,NodeJs**
 
